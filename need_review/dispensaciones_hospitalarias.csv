@@ -1,0 +1,501 @@
+fecha,medicamento,categoria,departamento,dosis_dispensadas,costo_unitario,paciente_id
+2024-03-12,Metoprolol 50mg,Cardiovascular,UCI,22,43.85,PAC7912
+2024-09-15,Ceftriaxona 1g,Antibiotico,UCI,10,82.61,PAC7873
+2024-01-04,Propofol 1%,Anestesico,Urgencias,42,195.56,PAC4527
+2024-07-02,Insulina NPH 100U,Endocrino,UCI,10,93.86,PAC9785
+2024-11-17,Metoprolol 50mg,Cardiovascular,Urgencias,10,45.23,PAC1750
+2024-02-21,Propofol 1%,Anestesico,Pediatría,10,207.11,PAC6820
+2024-11-27,PROPOFOL 1%,Anestesico,Pediatría,49,208.73,PAC8573
+2024-04-22,Furosemida 40mg,Diuretico,Pediatría,45,35.66,PAC1525
+2024-10-17,Insulina NPH 100U,Endocrino,Urgencias,22,90.88,PAC8517
+2024-10-14,Midazolam 5mg/ml,Sedante,Pediatría,13,146.2,PAC6930
+2024-01-25,Propofol 1%,Anestesico,Cirugía,37,199.87,PAC2040
+2024-09-27,Furosemida 40mg,Diuretico,Urgencias,43,36.74,PAC2876
+2024-03-21,Vancomicina 500mg,Antibiotico,Pediatría,12,313.39,PAC9201
+2024-06-01,Midazolam 5mg/ml,Sedante,Cardiología,11,155.56,PAC3646
+2024-02-27,Ceftriaxona 1g,Antibiotico,Cardiología,25,84.9,PAC1949
+2024-09-05,Propofol 1%,Anestesico,Cardiología,10,191.71,PAC8787
+2024-08-04,Midazolam 5mg/ml,Sedante,Pediatría,38,155.59,PAC6107
+2024-08-19,Furosemida 40mg,Diuretico,Pediatría,33,36.4,PAC4770
+2024-01-31,Propofol 1%,Anestesico,UCI,9,204.16,
+2024-10-03,Propofol 1%,Anestesico,Pediatría,47,199.71,PAC8749
+2024-08-08,Furosemida 40mg,Diuretico,Cirugía,11,33.59,
+2024-02-25,Metoprolol 50mg,Cardiovascular,UCI,30,46.03,PAC5563
+2024-10-08, Morfina 10mg/ml ,Analgesico,Cirugía,9,178.98,
+2024-09-03,Metoprolol 50mg,Cardiovascular,Cirugía,15,44.58,PAC7396
+2024-10-11,Vancomicina 500mg,Antibiotico,Urgencias,23,317.54,PAC1958
+2024-09-01,Ceftriaxona 1g,Antibiotico,Pediatría,8,81.18,PAC2312
+2024-04-30,Midazolam 5mg/ml,Sedante,UCI,43,143.52,PAC1651
+2024-09-24,Metoprolol 50mg,Cardiovascular,Urgencias,47,45.38,PAC5351
+2024-08-22,Furosemida 40mg,Diuretico,Cirugía,47,35.51,PAC2638
+2024-03-08,Metoprolol 50mg,Cardiovascular,Cardiología,18,45.03,PAC3584
+2024-11-30,Morfina 10mg/ml,Analgesico,Cardiología,50,176.45,PAC2697
+2024-10-10,Midazolam 5mg/ml,Sedante,Pediatría,12,155.85,PAC5325
+2024-08-04,Morfina 10mg/ml,Analgesico,,8,172.66,PAC5291
+2024-10-14,,Sedante,URGENCIAS,40,153.09,PAC9938
+2024-08-08,Ceftriaxona 1g,Antibiotico,Pediatría,42,85.45,PAC1653
+2024-02-22,Insulina NPH 100U,Endocrino,Cirugía,48,92.62,PAC3532
+2024-01-13,Propofol 1%,Anestesico,Cirugía,16,207.63,PAC5065
+2024-01-20,Vancomicina 500mg,Antibiotico,Cirugía,49,307.46,PAC6000
+2024-07-23,Propofol 1%,Anestesico,Cirugía,6,203.2,PAC9346
+2024-02-29,Furosemida 40mg,Diuretico,Cardiología,26,36.54,PAC1626
+2024-06-09,Metoprolol 50mg,Cardiovascular,Cardiología,32,44.31,PAC4114
+2024-09-23,Vancomicina 500mg,Antibiotico,UCI,50,317.95,PAC4228
+2024-06-18,Insulina NPH 100U,Endocrino,Urgencias,9,99.26,PAC9308
+2024-05-31,Vancomicina 500mg,Antibiotico,Urgencias,25,316.88,PAC3851
+2024-06-04,Vancomicina 500mg,Antibiotico,Urgencias,40,330.68,PAC8618
+2024-08-30,Morfina 10mg/ml,Analgesico,Urgencias,48,174.85,PAC5649
+2024-04-25,Insulina NPH 100U,Endocrino,UCI,20,96.64,PAC2193
+2024-12-22,Morfina 10mg/ml,Analgesico,Urgencias,45,181.36,PAC2746
+2024-12-22,Furosemida 40mg,Diuretico,CIRUGÍA,16,36.06,PAC8478
+2024-10-13,Midazolam 5mg/ml,Sedante,Urgencias,47,150.47,PAC9270
+2024-08-31,Furosemida 40mg,Diuretico,Cardiología,33,36.39,PAC9540
+2024-05-26,Morfina 10mg/ml,Analgesico,Cirugía,22,178.92,PAC3471
+2024-04-19,PROPOFOL 1%,Anestesico,Urgencias,49,193.06,PAC4388
+2024-01-11,Furosemida 40mg,Diuretico,Urgencias,42,36.56,
+2024-08-02,Insulina NPH 100U,Endocrino,Pediatría,29,98.36,PAC8999
+2024-07-18,Propofol 1%,Anestesico,Pediatría,32,199.71,PAC8657
+2024-07-20,Midazolam 5mg/ml,Sedante,Cardiología,39,142.9,PAC8564
+2024-04-18,Midazolam 5mg/ml,Sedante,UCI,21,148.19,PAC7906
+2024-10-03,VANCOMICINA 500MG,Antibiotico,UCI,35,304.62,
+2024-01-11,Ceftriaxona 1g,Antibiotico,UCI,20,82.44,PAC4571
+2024-11-06,Morfina 10mg/ml,Analgesico,Pediatría,28,174.02,PAC6096
+2024-10-21,Metoprolol 50mg,Cardiovascular,Cardiología,6,46.93,PAC2245
+2024-12-16,Propofol 1%,Anestesico,UCI,49,205.45,PAC6688
+2024-06-23,,Diuretico,Pediatría,9,35.02,PAC6934
+2024-09-24,Morfina 10mg/ml,Analgesico,Cirugía,32,174.17,PAC8921
+2024-05-05,Morfina 10mg/ml,Analgesico, Urgencias ,42,175.83,PAC8613
+2024-06-15,Furosemida 40mg,Diuretico,Pediatría,6,34.98,PAC5526
+2024-07-27,Ceftriaxona 1g,Antibiotico,Cardiología,17,81.48,PAC9041
+2024-07-26,Morfina 10mg/ml,Analgesico,UCI,10,176.3,PAC9698
+2024-12-25,Insulina NPH 100U,Endocrino,Urgencias,40,93.39,PAC6169
+2024-04-20,Metoprolol 50mg,Cardiovascular,Cardiología,49,43.58,PAC5636
+2024-04-01,Metoprolol 50mg,Cardiovascular,Cirugía,23,43.77,
+2024-03-05,Ceftriaxona 1g,Antibiotico,Cardiología,23,86.68,
+2024-04-04,Vancomicina 500mg,Antibiotico,Urgencias,35,318.1,PAC2070
+2024-12-17,FUROSEMIDA 40MG,Diuretico,Urgencias,9,35.27,PAC5066
+2024-11-12,Metoprolol 50mg,Cardiovascular,Cardiología,31,45.48,PAC8025
+2024-02-20,Vancomicina 500mg,Antibiotico,Cardiología,44,305.93,PAC3573
+2024-01-02,Propofol 1%,Anestesico,Cirugía,40,191.5,
+2024-02-06,Vancomicina 500mg,Antibiotico,Pediatría,49,331.51,PAC4241
+2024-03-17,Furosemida 40mg,Diuretico,UCI,39,34.04,PAC6039
+2024-06-04,Vancomicina 500mg,Antibiotico,Urgencias,12,319.0,PAC2317
+2024-01-14, Ceftriaxona 1g ,Antibiotico,Urgencias,25,85.88,PAC1339
+2024-03-30,Vancomicina 500mg,Antibiotico,Cardiología,7,328.42,PAC8141
+2024-06-19,Morfina 10mg/ml,Analgesico,UCI,35,177.26,PAC9117
+2024-02-15,Vancomicina 500mg,Antibiotico,Urgencias,40,305.17,PAC9431
+2024-04-06,Ceftriaxona 1g,Antibiotico,Cardiología,34,84.26,PAC1845
+2024-05-27,Propofol 1%,Anestesico,Pediatría,40,192.62,PAC4920
+2024-07-27, Midazolam 5mg/ml ,Sedante,Pediatría,40,142.71,PAC2924
+2024-12-27,Midazolam 5mg/ml,Sedante,Urgencias,50,146.88,PAC3369
+2024-03-10,Furosemida 40mg,Diuretico,Cirugía,43,35.03,PAC9318
+2024-10-27,Vancomicina 500mg,Antibiotico,UCI,23,327.23,PAC8935
+2024-07-12,Insulina NPH 100U,Endocrino,Pediatría,40,97.5,PAC7274
+2024-08-30,Propofol 1%,Anestesico,Urgencias,7,196.36,PAC3492
+2024-10-29,Morfina 10mg/ml,Analgesico,UCI,13,180.04,PAC8486
+2024-03-20,CEFTRIAXONA 1G,Antibiotico,Cirugía,31,88.15,PAC7512
+2024-07-13,Metoprolol 50mg,Cardiovascular,Pediatría,48,46.62,PAC9864
+2024-12-16,Ceftriaxona 1g,Antibiotico,Cardiología,9,82.75,PAC2612
+2024-01-15,,Cardiovascular,Urgencias,15,45.87,PAC3385
+2024-04-02,Propofol 1%,Anestesico,CARDIOLOGÍA,31,201.32,PAC4945
+2024-11-22,Morfina 10mg/ml,Analgesico,Cardiología,,175.18,PAC5712
+2024-10-27,Midazolam 5mg/ml,Sedante,UCI,33,156.68,PAC5949
+2024-07-14,Propofol 1%,Anestesico,Urgencias,35,192.13,PAC7484
+2024-01-26,Vancomicina 500mg,Antibiotico,UCI,41,331.68,PAC4770
+2024-05-08,Insulina NPH 100U,Endocrino,Cirugía,45,92.06,PAC2591
+2024-07-05,Ceftriaxona 1g,Antibiotico, Pediatría ,33,81.03,PAC3877
+2024-07-06,Propofol 1%,Anestesico,Cirugía,39,207.53,PAC8894
+2024-02-08,Vancomicina 500mg,Antibiotico,Pediatría,12,318.99,PAC7511
+2024-10-01,Insulina NPH 100U,Endocrino,UCI,30,90.38,PAC7242
+2024-01-13,Insulina NPH 100U,Endocrino,UCI,48,92.47,PAC2035
+2024-03-12,,Analgesico,,46,178.35,PAC4846
+2024-12-22,Midazolam 5mg/ml,Sedante,Urgencias,34,148.07,PAC7797
+2024-05-23,,Cardiovascular,Urgencias,44,44.59,PAC6942
+2024-11-26,Metoprolol 50mg,Cardiovascular,Pediatría,39,46.81,PAC8450
+2024-01-11,METOPROLOL 50MG,Cardiovascular,Cirugía,46,45.63,PAC4362
+2024-04-29,Metoprolol 50mg,Cardiovascular,Cardiología,18,45.39,
+2024-03-30,Midazolam 5mg/ml,Sedante,Cirugía,39,146.26,PAC4898
+2024-03-05,Insulina NPH 100U,Endocrino,UCI,16,92.77,PAC6931
+2024-11-10,,Cardiovascular,Urgencias,37,43.75,PAC8504
+2024-08-06,Ceftriaxona 1g,Antibiotico,UCI,35,87.95,
+2024-03-05,Metoprolol 50mg,Cardiovascular,Pediatría,43,43.42,PAC9692
+2024-02-20,Vancomicina 500mg,Antibiotico,Urgencias,37,323.37,PAC4522
+2024-08-20,Furosemida 40mg,Diuretico,Urgencias,19,34.7,PAC5176
+2024-02-04, Insulina NPH 100U ,Endocrino, Cirugía ,48,99.02,PAC7105
+2024-10-14,Midazolam 5mg/ml,Sedante,Cardiología,8,151.3,PAC7929
+2024-02-23,Ceftriaxona 1g,Antibiotico,Pediatría,43,83.41,PAC2773
+2024-05-22,Insulina NPH 100U,Endocrino,Cardiología,28,91.34,PAC1430
+2024-06-07,Vancomicina 500mg,Antibiotico,UCI,16,312.74,PAC7566
+2024-02-16,Metoprolol 50mg,Cardiovascular,Cirugía,45,47.12,PAC7062
+2024-01-27,Vancomicina 500mg,Antibiotico,Pediatría,41,323.08,PAC8259
+2024-05-19,Furosemida 40mg,Diuretico,Urgencias,43,34.8,PAC8972
+2024-11-02,VANCOMICINA 500MG,Antibiotico,UCI,19,316.65,PAC5186
+2024-08-08,Vancomicina 500mg,Antibiotico,Pediatría,12,304.25,PAC6802
+2024-08-23,Metoprolol 50mg,Cardiovascular,Urgencias,7,44.71,PAC7843
+2024-06-15,Vancomicina 500mg,Antibiotico,UCI,30,304.67,PAC6928
+2024-10-28,Metoprolol 50mg,Cardiovascular,URGENCIAS,11,43.84,PAC4630
+2024-02-28,Insulina NPH 100U,Endocrino,Cirugía,9,95.1,PAC3419
+2024-03-29,Propofol 1%,Anestesico,UCI,14,195.12,PAC9095
+2024-10-16,Morfina 10mg/ml,Analgesico,Cardiología,42,179.08,PAC6179
+2024-11-19,Midazolam 5mg/ml,Sedante,Urgencias,9,149.53,PAC6085
+2024-05-26,MORFINA 10MG/ML,Analgesico,Urgencias,7,172.02,PAC9307
+2024-01-22,Furosemida 40mg,Diuretico,Urgencias,42,35.19,PAC8792
+2024-06-24,Midazolam 5mg/ml,Sedante, UCI ,33,144.05,
+2024-03-22,Morfina 10mg/ml,Analgesico,Urgencias,38,180.41,PAC1857
+2024-12-13,Insulina NPH 100U,Endocrino,UCI,26,91.15,PAC3463
+2024-06-28,Insulina NPH 100U,Endocrino,UCI,42,96.55,PAC2388
+2024-06-17,Vancomicina 500mg,Antibiotico,Cardiología,29,324.59,PAC9624
+2024-07-04,Metoprolol 50mg,Cardiovascular,Urgencias,37,44.38,PAC4145
+2024-02-21,Propofol 1%,Anestesico,Cirugía,14,191.54,PAC6517
+2024-04-02,Midazolam 5mg/ml,Sedante,Cardiología,29,144.81,PAC8170
+2024-05-01,Ceftriaxona 1g,Antibiotico,Urgencias,28,86.5,PAC4833
+2024-04-09,Propofol 1%,Anestesico,Pediatría,35,208.08,PAC5616
+2024-03-23,Furosemida 40mg,Diuretico,Cardiología,38,34.72,PAC8873
+2024-09-21,Insulina NPH 100U,Endocrino,Cardiología,11,97.01,PAC9410
+2024-04-23,Midazolam 5mg/ml,Sedante,Urgencias,10,156.7,PAC7495
+2024-07-10,Insulina NPH 100U,Endocrino,Cirugía,29,99.7,PAC6493
+2024-08-29,Midazolam 5mg/ml,Sedante,Cirugía,7,146.8,PAC1086
+2024-03-17,Metoprolol 50mg,Cardiovascular,UCI,21,43.72,PAC5720
+2024-08-02,Propofol 1%,Anestesico,Pediatría,12,190.95,PAC9189
+2024-03-14,Ceftriaxona 1g,Antibiotico,,41,82.81,PAC4068
+2024-09-26,Metoprolol 50mg,Cardiovascular,Cardiología,28,43.05,
+2024-07-10,Morfina 10mg/ml,Analgesico,,45,177.96,PAC2698
+2024-06-22,Insulina NPH 100U,Endocrino,Cirugía,7,93.6,PAC8840
+2024-08-22,,Sedante,Cirugía,9,153.24,PAC6170
+2024-10-05,Vancomicina 500mg,Antibiotico,,30,335.65,PAC1783
+2024-08-11,Insulina NPH 100U,Endocrino,Pediatría,12,97.84,PAC4060
+2024-09-22,Morfina 10mg/ml,Analgesico, Urgencias ,28,187.64,PAC3956
+2024-12-04,Vancomicina 500mg,Antibiotico,Pediatría,11,306.56,PAC8272
+2024-06-29,Insulina NPH 100U,Endocrino,Urgencias,7,97.15,PAC1939
+2024-12-13,Metoprolol 50mg,Cardiovascular,,28,45.06,PAC8179
+2024-11-26,Ceftriaxona 1g,Antibiotico,Cirugía,9,82.76,PAC8371
+2024-10-20,Insulina NPH 100U,Endocrino,Pediatría,33,97.5,PAC2858
+2024-10-14,Ceftriaxona 1g,Antibiotico,Cirugía,36,85.15,PAC5678
+2024-02-07,Morfina 10mg/ml,Analgesico,Cirugía,12,173.44,PAC6236
+2024-06-02,Insulina NPH 100U,Endocrino,UCI,40,95.4,PAC6922
+2024-05-01,Propofol 1%,Anestesico,,17,205.84,PAC3126
+2024-09-02,Metoprolol 50mg,Cardiovascular,UCI,24,44.54,
+2024-09-21,Insulina NPH 100U,Endocrino,UCI,33,94.68,PAC3981
+2024-01-29,Midazolam 5mg/ml,Sedante,Urgencias,37,156.16,PAC4694
+2024-05-08,Insulina NPH 100U,Endocrino,Cardiología,23,98.29,PAC9740
+2024-10-24,Metoprolol 50mg,Cardiovascular,Cardiología,46,43.51,PAC1674
+2024-10-22,Ceftriaxona 1g,Antibiotico,UCI,7,88.81,PAC1496
+2024-06-03,Morfina 10mg/ml,Analgesico,Cardiología,23,182.55,PAC2195
+2024-08-25,Ceftriaxona 1g,Antibiotico,Cirugía,33,84.28,PAC6658
+2024-02-24,Furosemida 40mg,Diuretico,Cirugía,28,35.05,PAC2586
+2024-08-02,Ceftriaxona 1g,Antibiotico,Pediatría,29,88.1,PAC6123
+2024-08-27,Propofol 1%,Anestesico,Cirugía,,209.92,PAC9281
+2024-01-25,MORFINA 10MG/ML,Analgesico,Cirugía,18,181.5,PAC8710
+2024-08-08,Vancomicina 500mg,Antibiotico,Cardiología,5,331.11,PAC1741
+2024-07-04,Furosemida 40mg,Diuretico,UCI,41,35.22,PAC5582
+2024-06-22,Metoprolol 50mg,Cardiovascular,Cirugía,11,44.52,PAC7576
+2024-06-19,Ceftriaxona 1g,Antibiotico,UCI,7,81.91,PAC3290
+2024-11-11,Insulina NPH 100U,Endocrino,Cardiología,25,91.79,PAC9721
+2024-01-09,Morfina 10mg/ml,Analgesico,Cardiología,24,179.55,PAC1436
+2024-10-23,Morfina 10mg/ml,Analgesico,Pediatría,46,185.09,PAC7229
+2024-12-24,Midazolam 5mg/ml,Sedante,,7,151.09,PAC4340
+2024-02-01,Furosemida 40mg,Diuretico,Cardiología,44,36.47,PAC8837
+2024-09-29,Furosemida 40mg,Diuretico,Pediatría,16,34.86,PAC5331
+2024-06-01,Morfina 10mg/ml,Analgesico,Cirugía,20,176.02,PAC4396
+2024-05-20,Morfina 10mg/ml,Analgesico,Pediatría,35,177.28,PAC7464
+2024-02-10,Insulina NPH 100U,Endocrino,Cirugía,23,90.65,PAC4310
+2024-02-25,Vancomicina 500mg,Antibiotico,Cardiología,49,312.69,PAC9700
+2024-06-18,Propofol 1%,Anestesico,Cirugía,8,192.0,
+2024-08-31,Midazolam 5mg/ml,Sedante,Urgencias,46,156.53,PAC1969
+2024-01-20,Metoprolol 50mg,Cardiovascular,Cardiología,19,45.16,PAC1595
+2024-05-28,Furosemida 40mg,Diuretico,,16,36.53,PAC6489
+2024-09-09,Vancomicina 500mg,Antibiotico,Urgencias,46,321.39,PAC2845
+2024-04-05,,Endocrino,Cirugía,34,96.41,PAC4164
+2024-08-06,Midazolam 5mg/ml,Sedante, Cardiología ,45,155.96,PAC3303
+2024-07-15,Morfina 10mg/ml,Analgesico,Pediatría,20,171.12,PAC1187
+2024-12-07,Vancomicina 500mg,Antibiotico,Pediatría,49,311.56,PAC6095
+2024-04-22,Metoprolol 50mg,Cardiovascular,Pediatría,28,45.52,PAC7121
+2024-12-06,Furosemida 40mg,Diuretico,Cardiología,35,35.9,PAC2341
+2024-10-15,Morfina 10mg/ml,Analgesico,Cardiología,50,177.51,PAC9792
+2024-08-14,Midazolam 5mg/ml,Sedante,Cirugía,25,155.32,PAC9361
+2024-07-31,Morfina 10mg/ml,Analgesico,UCI,34,173.37,PAC1356
+2024-10-23,FUROSEMIDA 40MG,Diuretico,Pediatría,5,35.86,PAC1987
+2024-04-02,Metoprolol 50mg,Cardiovascular,Urgencias,7,44.04,PAC7887
+2024-07-12,Insulina NPH 100U,Endocrino,Urgencias,33,98.51,PAC6697
+2024-03-06,Metoprolol 50mg,Cardiovascular,Cirugía,,44.52,
+2024-08-05,Vancomicina 500mg,Antibiotico,Urgencias,48,327.01,PAC5516
+2024-08-02,Propofol 1%,Anestesico,UCI,7,206.19,PAC2102
+2024-12-10,Metoprolol 50mg,Cardiovascular,,7,44.76,PAC4839
+2024-05-28,Propofol 1%,Anestesico,UCI,13,200.08,PAC6253
+2024-09-23,Propofol 1%,Anestesico,Pediatría,14,209.71,PAC3869
+2024-06-25,Furosemida 40mg,Diuretico,Cardiología,36,33.41,PAC7821
+2024-10-02,Furosemida 40mg,Diuretico,Cirugía,24,34.57,PAC8586
+2024-10-12,Ceftriaxona 1g,Antibiotico,Cardiología,31,88.98,PAC2295
+2024-04-07,MORFINA 10MG/ML,Analgesico,Pediatría,10,180.64,
+2024-10-13,Metoprolol 50mg,Cardiovascular,Cirugía,42,46.01,PAC1251
+2024-09-02,Propofol 1%,Anestesico,Cirugía,12,204.94,PAC4921
+2024-11-28,Insulina NPH 100U,Endocrino,Pediatría,29,94.68,PAC2615
+2024-07-30,,Analgesico,Pediatría,18,177.67,
+2024-04-27,Furosemida 40mg,Diuretico,Pediatría,14,33.94,PAC6530
+2024-08-23,Vancomicina 500mg,Antibiotico,Urgencias,46,327.67,PAC9000
+2024-09-25,,Sedante,Cardiología,46,156.86,PAC1104
+2024-12-28,Furosemida 40mg,Diuretico,Cirugía,45,34.06,
+2024-10-09,Morfina 10mg/ml,Analgesico,,6,171.12,PAC5697
+2024-04-01,Ceftriaxona 1g,Antibiotico, Cardiología ,49,86.48,PAC9625
+2024-02-10,Vancomicina 500mg,Antibiotico,Pediatría,22,329.44,PAC4700
+2024-11-28,Vancomicina 500mg,Antibiotico, UCI ,46,335.73,PAC1919
+2024-08-10,Ceftriaxona 1g,Antibiotico,Cirugía,10,85.0,PAC9653
+2024-12-20,Ceftriaxona 1g,Antibiotico,Cirugía,18,88.41,
+2024-04-01,Vancomicina 500mg,Antibiotico,Cardiología,41,325.06,PAC7525
+2024-10-17,Metoprolol 50mg,Cardiovascular,Pediatría,15,45.29,PAC3292
+2024-08-11,Metoprolol 50mg,Cardiovascular,CARDIOLOGÍA,27,42.99,PAC7499
+2024-08-18,Insulina NPH 100U,Endocrino,UCI,45,92.85,PAC7227
+2024-02-07, Metoprolol 50mg ,Cardiovascular,Cardiología,23,46.34,PAC7383
+2024-06-06,Insulina NPH 100U,Endocrino,Pediatría,11,91.12,PAC8061
+2024-02-22,,Analgesico,Cardiología,40,180.22,PAC6315
+2024-02-13,Furosemida 40mg,Diuretico,UCI,23,34.7,PAC9537
+2024-06-03,Midazolam 5mg/ml,Sedante,Urgencias,15,144.58,PAC5911
+2024-05-06,Morfina 10mg/ml,Analgesico,UCI,28,175.53,PAC3219
+2024-11-13,Vancomicina 500mg,Antibiotico,UCI,30,314.63,PAC3230
+2024-04-12,Vancomicina 500mg,Antibiotico,Pediatría,43,334.31,PAC9044
+2024-07-20,Propofol 1%,Anestesico,Pediatría,29,195.61,PAC3947
+2024-05-29,Ceftriaxona 1g,Antibiotico,URGENCIAS,50,82.53,PAC9180
+2024-03-19,Midazolam 5mg/ml,Sedante,Pediatría,20,146.29,PAC8851
+2024-12-20,Furosemida 40mg,Diuretico,,37,36.48,PAC9796
+2024-06-30,Metoprolol 50mg,Cardiovascular,UCI,20,45.71,PAC7547
+2024-05-12,Insulina NPH 100U,Endocrino,Urgencias,11,90.35,PAC4621
+2024-12-13,Morfina 10mg/ml,Analgesico,Pediatría,30,179.34,
+2024-02-13,Metoprolol 50mg,Cardiovascular,Pediatría,31,46.89,PAC8460
+2024-02-19,Propofol 1%,Anestesico,Cardiología,35,196.97,PAC2885
+2024-03-25,Ceftriaxona 1g,Antibiotico,Pediatría,46,81.68,PAC6422
+2024-11-18,Furosemida 40mg,Diuretico,Urgencias,19,36.04,
+2024-01-03,Propofol 1%,Anestesico,Urgencias,42,198.59,PAC2025
+2024-04-10,Metoprolol 50mg,Cardiovascular,Cardiología,16,44.4,PAC6134
+2024-06-27,Furosemida 40mg,Diuretico,Cardiología,30,35.3,PAC5873
+2024-06-05,Metoprolol 50mg,Cardiovascular,Cirugía,25,43.28,PAC3258
+2024-10-02,Furosemida 40mg,Diuretico,Urgencias,16,34.95,PAC9022
+2024-08-18,Vancomicina 500mg,Antibiotico,Cirugía,16,314.07,PAC4196
+2024-07-28,Furosemida 40mg,Diuretico,Cardiología,37,35.54,PAC2354
+2024-04-25,Ceftriaxona 1g,Antibiotico,Cirugía,23,81.03,PAC9115
+2024-10-05,Metoprolol 50mg,Cardiovascular,Cardiología,12,43.96,
+2024-02-22,Morfina 10mg/ml,Analgesico,Cardiología,18,188.82,PAC1528
+2024-02-14,Morfina 10mg/ml,Analgesico,Pediatría,27,186.52,PAC6744
+2024-04-15,Furosemida 40mg,Diuretico,Cirugía,44,33.74,PAC9827
+2024-10-20,Midazolam 5mg/ml,Sedante,Pediatría,50,146.89,PAC2560
+2024-12-01,Midazolam 5mg/ml,Sedante,Urgencias,8,157.39,PAC5055
+2024-05-17,Furosemida 40mg,Diuretico,Urgencias,14,35.27,PAC2525
+2024-07-07,Furosemida 40mg,Diuretico,Cardiología,22,35.68,PAC2526
+2024-07-22,Morfina 10mg/ml,Analgesico,Pediatría,9,185.32,PAC5646
+2024-09-05,Insulina NPH 100U,Endocrino,Cardiología,41,91.49,
+2024-03-21,Morfina 10mg/ml,Analgesico,,12,187.73,PAC3161
+2024-07-03,Vancomicina 500mg,Antibiotico,Cirugía,22,306.99,PAC7493
+2024-12-26, Vancomicina 500mg ,Antibiotico,Cirugía,32,324.98,PAC9510
+2024-03-02,Morfina 10mg/ml,Analgesico,UCI,5,183.52,
+2024-07-07,Furosemida 40mg,Diuretico,UCI,11,33.61,PAC3181
+2024-11-08,Midazolam 5mg/ml,Sedante,UCI,38,150.95,PAC3480
+2024-04-21, Furosemida 40mg ,Diuretico,Cardiología,48,34.8,PAC7291
+2024-05-06,Insulina NPH 100U,Endocrino, Urgencias ,25,97.77,PAC5668
+2024-09-17,Ceftriaxona 1g,Antibiotico,Pediatría,18,85.15,PAC4921
+2024-11-22,Morfina 10mg/ml,Analgesico,Urgencias,12,175.34,PAC6185
+2024-10-06,Midazolam 5mg/ml,Sedante,Urgencias,41,148.81,PAC1273
+2024-01-31,Metoprolol 50mg,Cardiovascular,UCI,21,43.72,PAC7806
+2024-10-02,Furosemida 40mg,Diuretico,Urgencias,10,35.49,PAC4329
+2024-11-20,Midazolam 5mg/ml,Sedante,Cardiología,25,148.36,PAC8167
+2024-08-10,Propofol 1%,Anestesico,UCI,20,191.72,PAC3877
+2024-01-06,Metoprolol 50mg,Cardiovascular,UCI,50,43.37,PAC5247
+2024-05-17,Midazolam 5mg/ml,Sedante,Pediatría,13,153.75,PAC8034
+2024-10-22,Vancomicina 500mg,Antibiotico,Cardiología,9,312.41,
+2024-02-22,Midazolam 5mg/ml,Sedante,Pediatría,15,146.33,PAC1042
+2024-07-05,Ceftriaxona 1g,Antibiotico,UCI,20,81.14,PAC7870
+2024-06-12,Propofol 1%,Anestesico,PEDIATRÍA,20,198.33,PAC1862
+2024-07-24,MIDAZOLAM 5MG/ML,Sedante,Cirugía,38,157.22,PAC6362
+2024-04-12,Metoprolol 50mg,Cardiovascular,Cardiología,34,42.79,PAC7033
+2024-05-05,Morfina 10mg/ml,Analgesico,Cirugía,,184.69,PAC1157
+2024-06-06,Insulina NPH 100U,Endocrino,UCI,47,93.82,PAC1981
+2024-04-28,Midazolam 5mg/ml,Sedante,Pediatría,10,143.16,PAC2391
+2024-07-20,METOPROLOL 50MG,Cardiovascular,Cardiología,13,45.62,PAC4879
+2024-07-20,Vancomicina 500mg,Antibiotico,Pediatría,25,333.63,PAC2223
+2024-02-24,Propofol 1%,Anestesico,Cirugía,42,192.18,PAC4401
+2024-03-02, Morfina 10mg/ml ,Analgesico,Pediatría,34,175.77,PAC1660
+2024-05-07,Propofol 1%,Anestesico,Pediatría,14,191.82,PAC3848
+2024-10-08,Ceftriaxona 1g,Antibiotico,Urgencias,33,85.48,PAC1195
+2024-07-24,Ceftriaxona 1g,Antibiotico,Cirugía,13,82.43,PAC5240
+2024-11-26,Metoprolol 50mg,Cardiovascular,UCI,9,43.64,PAC6432
+2024-10-20,Metoprolol 50mg,Cardiovascular,UCI,34,42.98,PAC7990
+2024-05-20,Midazolam 5mg/ml,Sedante,Pediatría,,156.12,PAC5026
+2024-09-02,VANCOMICINA 500MG,Antibiotico,Urgencias,31,332.25,PAC9614
+2024-07-02,Propofol 1%,Anestesico,Cardiología,6,209.79,PAC6269
+2024-11-01,Furosemida 40mg,Diuretico,Pediatría,16,33.34,
+2024-04-29,Morfina 10mg/ml,Analgesico,Cardiología,27,184.8,PAC1916
+2024-03-29,Propofol 1%,Anestesico,Cardiología,29,197.1,PAC1462
+2024-04-06,Insulina NPH 100U,Endocrino,Cardiología,41,91.6,PAC3876
+2024-11-04,Morfina 10mg/ml,Analgesico,UCI,,172.01,PAC4300
+2024-06-14,MIDAZOLAM 5MG/ML,Sedante,Pediatría,50,145.16,PAC2817
+2024-12-05,Insulina NPH 100U,Endocrino,UCI,28,96.94,PAC3580
+2024-12-28,Furosemida 40mg,Diuretico,Urgencias,46,34.36,PAC4657
+2024-05-30,Midazolam 5mg/ml,Sedante,Urgencias,24,153.51,PAC7415
+2024-11-09,Ceftriaxona 1g,Antibiotico,Cirugía,43,83.45,PAC2274
+2024-02-15,Propofol 1%,Anestesico,Pediatría,25,193.36,PAC1186
+2024-06-28,Vancomicina 500mg,Antibiotico,Cirugía,,326.18,PAC7875
+2024-06-28,Midazolam 5mg/ml,Sedante,Urgencias,36,155.73,PAC4695
+2024-01-18,Midazolam 5mg/ml,Sedante,Urgencias,9,154.49,
+2024-10-07,Midazolam 5mg/ml,Sedante,Urgencias,15,153.48,PAC8909
+2024-08-10,Ceftriaxona 1g,Antibiotico,Urgencias,46,82.15,PAC9849
+2024-01-26,Vancomicina 500mg,Antibiotico,Pediatría,24,311.6,
+2024-12-04,Ceftriaxona 1g,Antibiotico,Urgencias,10,83.25,PAC5781
+2024-07-22,Metoprolol 50mg,Cardiovascular,Urgencias,12,44.14,PAC7349
+2024-08-16,,Sedante,Pediatría,29,148.04,PAC2009
+2024-10-04,Midazolam 5mg/ml,Sedante,UCI,10,152.52,
+2024-12-17,Furosemida 40mg,Diuretico,Cardiología,31,36.63,PAC2293
+2024-09-21,Furosemida 40mg,Diuretico,UCI,37,35.25,PAC8357
+2024-03-05,,Sedante,CIRUGÍA,18,154.63,PAC3422
+2024-10-11,Vancomicina 500mg,Antibiotico,Pediatría,9,306.78,PAC1202
+2024-10-17,Furosemida 40mg,Diuretico,UCI,31,33.77,PAC2654
+2024-05-15,Vancomicina 500mg,Antibiotico,Cardiología,27,332.09,
+2024-12-14,Vancomicina 500mg,Antibiotico,,14,323.78,PAC4892
+2024-01-11,Ceftriaxona 1g,Antibiotico,Urgencias,22,88.37,PAC2609
+2024-08-14,Propofol 1%,Anestesico,Cirugía,24,209.48,PAC2462
+2024-07-27,Propofol 1%,Anestesico,Urgencias,18,208.27,PAC9442
+2024-07-25,Midazolam 5mg/ml,Sedante,UCI,24,153.14,
+2024-08-21,PROPOFOL 1%,Anestesico,Cirugía,8,194.99,PAC8605
+2024-07-09,Furosemida 40mg,Diuretico,UCI,48,33.36,PAC6730
+2024-12-18, Insulina NPH 100U ,Endocrino,,21,97.37,PAC4511
+2024-11-29,Propofol 1%,Anestesico,,48,194.13,PAC1145
+2024-01-05,Morfina 10mg/ml,Analgesico,Cirugía,46,174.12,PAC5511
+2024-04-21,Furosemida 40mg,Diuretico,Urgencias,27,34.86,PAC2676
+2024-07-10,Ceftriaxona 1g,Antibiotico,Cardiología,47,88.97,PAC8892
+2024-05-21,Metoprolol 50mg,Cardiovascular,Pediatría,22,45.63,PAC3456
+2024-06-12,Propofol 1%,Anestesico,UCI,43,198.08,PAC5250
+2024-10-25,Furosemida 40mg,Diuretico,Urgencias,29,35.83,PAC4643
+2024-03-28,Morfina 10mg/ml,Analgesico,Pediatría,37,176.4,PAC3096
+2024-06-20,Vancomicina 500mg,Antibiotico,Cardiología,16,334.3,PAC7889
+2024-08-25,Insulina NPH 100U,Endocrino,Pediatría,21,95.81,PAC2166
+2024-12-14,Morfina 10mg/ml,Analgesico,Cirugía,37,173.16,PAC3250
+2024-08-22,Propofol 1%,Anestesico,Pediatría,31,209.74,PAC6449
+2024-08-19,Midazolam 5mg/ml,Sedante,Pediatría,45,143.37,PAC9021
+2024-08-07,Metoprolol 50mg,Cardiovascular,Cirugía,44,44.7,
+2024-09-28,Propofol 1%,Anestesico,Pediatría,5,207.84,PAC6641
+2024-10-28,Vancomicina 500mg,Antibiotico,CIRUGÍA,11,316.27,PAC8469
+2024-06-24,Insulina NPH 100U,Endocrino,Urgencias,48,99.71,PAC7609
+2024-03-08,Ceftriaxona 1g,Antibiotico,,19,86.93,PAC1612
+2024-10-31,Furosemida 40mg,Diuretico,Pediatría,39,35.43,
+2024-10-07,Metoprolol 50mg,Cardiovascular,Urgencias,33,44.46,PAC1152
+2024-09-23,Vancomicina 500mg,Antibiotico,Urgencias,47,307.23,PAC2718
+2024-09-11,Metoprolol 50mg,Cardiovascular,Pediatría,12,46.28,PAC4304
+2024-10-07,Insulina NPH 100U,Endocrino,Urgencias,23,91.77,PAC1044
+2024-12-08,Ceftriaxona 1g,Antibiotico,UCI,12,87.85,
+2024-05-31,Metoprolol 50mg,Cardiovascular,PEDIATRÍA,46,43.79,PAC5760
+2024-02-18,Insulina NPH 100U,Endocrino,Pediatría,,97.27,PAC3793
+2024-05-17,Insulina NPH 100U,Endocrino, Pediatría ,33,99.32,PAC7566
+2024-12-19,Furosemida 40mg,Diuretico,Urgencias,22,36.17,PAC2852
+2024-10-29,Midazolam 5mg/ml,Sedante,UCI,15,144.06,PAC6875
+2024-02-27,Ceftriaxona 1g,Antibiotico,Cirugía,35,88.57,PAC1202
+2024-12-24,Propofol 1%,Anestesico,Pediatría,38,200.46,PAC7305
+2024-11-25,Midazolam 5mg/ml,Sedante,Cardiología,44,143.32,PAC3709
+2024-05-22,METOPROLOL 50MG,Cardiovascular,Urgencias,25,43.83,PAC4850
+2024-08-17, Metoprolol 50mg ,Cardiovascular,Urgencias,33,46.36,PAC1291
+2024-10-08,,Cardiovascular, Urgencias ,31,42.91,PAC5990
+2024-01-28,Propofol 1%,Anestesico,Urgencias,26,197.27,PAC8751
+2024-12-03,Insulina NPH 100U,Endocrino,Urgencias,12,91.18,PAC5783
+2024-09-09,Insulina NPH 100U,Endocrino,UCI,7,98.77,PAC4209
+2024-04-07,Propofol 1%,Anestesico,UCI,30,194.31,PAC3018
+2024-09-15,Morfina 10mg/ml,Analgesico,Urgencias,47,181.61,
+2024-03-31,Furosemida 40mg,Diuretico,Cardiología,35,36.49,PAC6273
+2024-05-07,Furosemida 40mg,Diuretico,Urgencias,43,36.46,PAC3185
+2024-09-19,Midazolam 5mg/ml,Sedante,Urgencias,43,153.0,PAC4560
+2024-12-17,Propofol 1%,Anestesico,Cirugía,44,204.29,PAC3913
+2024-10-25,Insulina NPH 100U,Endocrino,UCI,27,95.59,PAC9747
+2024-01-13,Vancomicina 500mg,Antibiotico,URGENCIAS,5,320.73,PAC3636
+2024-12-19,Vancomicina 500mg,Antibiotico,Pediatría,14,330.86,PAC8415
+2024-04-24,Metoprolol 50mg,Cardiovascular,Cardiología,48,46.08,PAC5712
+2024-12-16,Ceftriaxona 1g,Antibiotico,Urgencias,,84.29,PAC8259
+2024-11-04,Propofol 1%,Anestesico,Pediatría,42,200.93,PAC2220
+2024-01-21,Midazolam 5mg/ml,Sedante,Cirugía,37,144.29,PAC5178
+2024-03-20,,Antibiotico,Pediatría,34,86.78,PAC5934
+2024-12-28,Morfina 10mg/ml,Analgesico,Cardiología,40,177.45,
+2024-02-17,Midazolam 5mg/ml,Sedante,Urgencias,39,150.56,PAC5809
+2024-10-14,Propofol 1%,Anestesico,Cardiología,,199.5,PAC8301
+2024-01-21,Propofol 1%,Anestesico,Cardiología,44,194.88,PAC7322
+2024-09-21,Vancomicina 500mg,Antibiotico,Cardiología,23,304.79,PAC1718
+2024-02-19,Vancomicina 500mg,Antibiotico,Cirugía,25,320.44,
+2024-04-19,Metoprolol 50mg,Cardiovascular,Cirugía,47,45.58,PAC8130
+2024-06-18,,Cardiovascular,CIRUGÍA,6,44.82,PAC2154
+2024-11-18,Propofol 1%,Anestesico,Pediatría,31,197.76,PAC1096
+2024-02-07,Metoprolol 50mg,Cardiovascular,Cardiología,7,45.9,PAC2417
+2024-12-04,,Antibiotico,Urgencias,29,316.64,PAC9941
+2024-11-27,Vancomicina 500mg,Antibiotico,Cirugía,24,325.67,PAC3019
+2024-10-02,Ceftriaxona 1g,Antibiotico, UCI ,41,85.82,PAC6633
+2024-03-13,Propofol 1%,Anestesico,Urgencias,46,207.03,PAC3971
+2024-02-07,Ceftriaxona 1g,Antibiotico,CARDIOLOGÍA,34,86.23,PAC8982
+2024-04-30,Insulina NPH 100U,Endocrino,Pediatría,13,96.63,PAC8383
+2024-10-26,Insulina NPH 100U,Endocrino,Cardiología,47,93.15,PAC3762
+2024-12-30,Ceftriaxona 1g,Antibiotico,Pediatría,20,87.43,PAC6432
+2024-06-05,Morfina 10mg/ml,Analgesico,Urgencias,33,177.46,PAC5597
+2024-11-16,MIDAZOLAM 5MG/ML,Sedante,CARDIOLOGÍA,,146.45,PAC1511
+2024-10-09,Furosemida 40mg,Diuretico,Cardiología,18,36.42,PAC3435
+2024-10-28,Insulina NPH 100U,Endocrino,Urgencias,19,98.72,PAC7500
+2024-11-10,Insulina NPH 100U,Endocrino,Cardiología,5,96.55,PAC3395
+2024-09-06,Morfina 10mg/ml,Analgesico,Pediatría,7,174.94,PAC9485
+2024-01-24,,Endocrino,Urgencias,35,98.97,PAC5480
+2024-07-11,Vancomicina 500mg,Antibiotico,Cardiología,39,322.25,PAC9465
+2024-06-29,Vancomicina 500mg,Antibiotico,Urgencias,19,320.52,PAC1108
+2024-09-20,Midazolam 5mg/ml,Sedante,Urgencias,15,145.95,PAC2938
+2024-09-03,Propofol 1%,Anestesico,Urgencias,26,204.41,PAC7732
+2024-10-30,Ceftriaxona 1g,Antibiotico,Cirugía,,81.84,PAC1916
+2024-07-26,Midazolam 5mg/ml,Sedante,Pediatría,,150.25,PAC5644
+2024-08-29,Metoprolol 50mg,Cardiovascular,Cirugía,33,45.48,PAC3979
+2024-08-20,Vancomicina 500mg,Antibiotico,CIRUGÍA,48,314.97,PAC1271
+2024-03-17,Propofol 1%,Anestesico,Cardiología,37,203.69,PAC9706
+2024-11-04,Metoprolol 50mg,Cardiovascular,,35,45.72,PAC8069
+2024-08-07,Furosemida 40mg,Diuretico,Pediatría,7,35.69,PAC2600
+2024-04-29,Furosemida 40mg,Diuretico, Cirugía ,21,34.92,PAC5223
+2024-01-04,Propofol 1%,Anestesico,UCI,,204.87,PAC6175
+2024-11-29,Furosemida 40mg,Diuretico,Pediatría,11,33.79,PAC5514
+2024-10-12,Furosemida 40mg,Diuretico,Cirugía,31,35.18,PAC6024
+2024-12-03,Insulina NPH 100U,Endocrino,Urgencias,13,98.37,PAC2642
+2024-10-08,Propofol 1%,Anestesico,Cardiología,30,205.72,PAC1086
+2024-08-10, Metoprolol 50mg ,Cardiovascular,Cirugía,35,46.92,PAC7296
+2024-12-30,Furosemida 40mg,Diuretico,CARDIOLOGÍA,46,35.07,PAC9099
+2024-09-22,Morfina 10mg/ml,Analgesico,,17,186.31,PAC4795
+2024-01-01,Midazolam 5mg/ml,Sedante, UCI ,28,146.09,PAC7474
+2024-12-26,FUROSEMIDA 40MG,Diuretico, Cardiología ,17,35.06,PAC6703
+2024-04-09,Insulina NPH 100U,Endocrino,Pediatría,,96.01,PAC9294
+2024-06-23,Metoprolol 50mg,Cardiovascular,Cardiología,9,45.01,PAC5098
+2024-05-04,Morfina 10mg/ml,Analgesico,Urgencias,41,179.71,PAC1448
+2024-11-20,Morfina 10mg/ml,Analgesico,UCI,21,172.22,PAC7757
+2024-05-14,Insulina NPH 100U,Endocrino, Cardiología ,39,90.34,PAC2245
+2024-10-20,Midazolam 5mg/ml,Sedante,Urgencias,25,147.8,PAC9175
+2024-04-15,Propofol 1%,Anestesico,Cirugía,20,207.45,PAC2747
+2024-09-09,Metoprolol 50mg,Cardiovascular,UCI,48,47.05,
+2024-10-21,Morfina 10mg/ml,Analgesico,Pediatría,44,176.68,PAC5591
+2024-09-26,Furosemida 40mg,Diuretico,Cirugía,41,33.7,PAC7450
+2024-08-23,Midazolam 5mg/ml,Sedante,,12,152.97,PAC2650
+2024-04-05,Insulina NPH 100U,Endocrino,Pediatría,44,98.44,PAC6995
+2024-12-24,Midazolam 5mg/ml,Sedante,Urgencias,32,145.66,PAC3148
+2024-10-11,Propofol 1%,Anestesico,UCI,22,206.08,PAC3450
+2024-03-09,Morfina 10mg/ml,Analgesico,UCI,16,178.59,PAC8972
+2024-01-25,Vancomicina 500mg,Antibiotico,Pediatría,40,331.47,PAC8807
+2024-07-03,Metoprolol 50mg,Cardiovascular,Urgencias,26,43.92,
+2024-04-11,Metoprolol 50mg,Cardiovascular,Pediatría,48,47.08,PAC5663
+2024-08-16,Insulina NPH 100U,Endocrino,Pediatría,48,95.1,PAC3373
+2024-10-19,Midazolam 5mg/ml,Sedante,Pediatría,31,151.97,PAC6136
+2024-11-26,Insulina NPH 100U,Endocrino,Pediatría,50,92.79,PAC9535
+2024-01-12,Morfina 10mg/ml,Analgesico,Urgencias,15,174.31,PAC2311
+2024-02-02,Propofol 1%,Anestesico,Cirugía,30,192.06,PAC9584
+2024-02-13,Metoprolol 50mg,Cardiovascular,UCI,21,45.53,PAC5655
+2024-03-28,,Analgesico,Cirugía,13,180.48,PAC8801
+2024-03-10,Morfina 10mg/ml,Analgesico,Cardiología,22,180.87,PAC8126
+2024-02-15,Vancomicina 500mg,Antibiotico,Pediatría,35,321.27,PAC1001
+2024-01-05,Midazolam 5mg/ml,Sedante,Pediatría,23,149.54,PAC8052
+2024-10-07,Vancomicina 500mg,Antibiotico,Cardiología,19,329.5,PAC3675
+2024-08-04,Furosemida 40mg,Diuretico,Urgencias,19,34.17,PAC5454
+2024-02-05,Vancomicina 500mg,Antibiotico,Cardiología,22,317.21,PAC5458
+2024-01-26,Morfina 10mg/ml,Analgesico,,25,171.35,PAC3048
+2024-01-08,Morfina 10mg/ml,Analgesico,UCI,19,172.62,PAC7084
+2024-03-15,MORFINA 10MG/ML,Analgesico,UCI,26,172.44,PAC4148
+2024-05-07,Vancomicina 500mg,Antibiotico,Urgencias,5,307.9,PAC4263
+2024-04-16,Morfina 10mg/ml,Analgesico,UCI,38,182.99,PAC1691
+2024-04-11,Metoprolol 50mg,Cardiovascular,PEDIATRÍA,35,45.62,PAC4866
+2024-05-21,Furosemida 40mg,Diuretico,Pediatría,5,33.84,PAC8786
+2024-09-12, Midazolam 5mg/ml ,Sedante,Pediatría,10,146.23,PAC1983
+2024-10-01,Ceftriaxona 1g,Antibiotico,Pediatría,46,82.06,PAC6690
+2024-07-02,Morfina 10mg/ml,Analgesico,Cirugía,,183.41,PAC5828
+2024-06-27,Morfina 10mg/ml,Analgesico,Cirugía,41,174.36,PAC3627
+2024-05-14,Metoprolol 50mg,Cardiovascular,Cardiología,14,44.77,PAC4039
+2024-05-02,Ceftriaxona 1g,Antibiotico,CARDIOLOGÍA,28,87.35,PAC4110
+2024-06-14,Morfina 10mg/ml,Analgesico,Cardiología,14,182.03,PAC1717

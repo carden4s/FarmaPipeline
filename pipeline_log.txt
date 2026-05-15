@@ -1,0 +1,8 @@
+No new files found - 2026-05-14 19:24
+ERROR: dispensaciones_hospitalarias.csv - ['unidades_vendidas'] - 2026-05-14 19:24
+ERROR: dispensaciones_hospitalarias.csv - ['unidades_vendidas'] - 2026-05-14 19:26
+ERROR: dispensaciones_hospitalarias.csv - 'NoneType' object has no attribute 'find' - 2026-05-14 19:28
+ERROR: dispensaciones_hospitalarias.csv - 'NoneType' object has no attribute 'find' - 2026-05-14 19:31
+No new files found - 2026-05-14 19:32
+ERROR: dispensaciones_hospitalarias.csv - 090106 (22000): Cannot perform CREATE TEMPSTAGE. This session does not have a current schema. Call 'USE SCHEMA', or use a qualified name. - 2026-05-14 19:32
+ERROR: dispensaciones_hospitalarias.csv - 090106 (22000): Cannot perform CREATE TEMPSTAGE. This session does not have a current schema. Call 'USE SCHEMA', or use a qualified name. - 2026-05-14 19:33
