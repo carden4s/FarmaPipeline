@@ -6,3 +6,10 @@ ERROR: dispensaciones_hospitalarias.csv - 'NoneType' object has no attribute 'fi
 No new files found - 2026-05-14 19:32
 ERROR: dispensaciones_hospitalarias.csv - 090106 (22000): Cannot perform CREATE TEMPSTAGE. This session does not have a current schema. Call 'USE SCHEMA', or use a qualified name. - 2026-05-14 19:32
 ERROR: dispensaciones_hospitalarias.csv - 090106 (22000): Cannot perform CREATE TEMPSTAGE. This session does not have a current schema. Call 'USE SCHEMA', or use a qualified name. - 2026-05-14 19:33
+No new files found - 2026-05-14 19:37
+SUCCESS: dispensaciones_hospitalarias.csv loaded to Snowflake - 2026-05-14 19:37
+No new files found - 2026-05-14 19:47
+SUCCESS: dispensaciones_hospitalarias.csv loaded to Snowflake - 2026-05-14 19:48
+SUCCESS: dispensaciones_hospitalarias.csv loaded to Snowflake - 2026-05-14 19:51
+No new files found - 2026-05-14 19:53
+SUCCESS: dispensaciones_hospitalarias.csv loaded to Snowflake - 2026-05-14 19:53
